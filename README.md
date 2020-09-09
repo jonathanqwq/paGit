@@ -15,7 +15,7 @@ I am somehow sure even a monkey will be able to use this!
    当出现一页标题是"Choosing the default editor used by Git"时，从列表里选第一项，"Use the Nano"的那个。  
    其实这个不影响本工具的工作，但能节省您的青春。接下来继续一路下一步。
 ### 安装 Installation
-1. 点击 [此处](https://github.com/zbx1425/paGit/archive/master.zip) 下载本工具。  
+1. 点击 [此处](https://github.com/jonathanqwq/paGit/archive/master.zip) 下载本工具。  
    解压`pagit.sh`到你的电脑, 放到一个风水宝地。
 2. 右键->"打开方式"，用你喜欢的编辑器打开这个文件(不要"始终使用"), 按照里面十分明了的指示填入配置项。
 3. 双击`pagit.sh`。它应当提示"没有文件变动"或者"提交完成"。  
@@ -28,6 +28,7 @@ I am somehow sure even a monkey will be able to use this!
 
 ## 关于作者 Author
 - zbx1425 - [zbx1425.tk](https://zbx1425.tk) - [zbx1425@outlook.com](mailto:zbx1425@outlook.com)
+- jonathanqwq - [jonathanqwq.github.io](https://jonathanqwq.github.io) - [2841306779@qq.com](mailto:2841306779@qq.com)
 
 ## 授权协议 License
 本项目按 WTFPL(DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE, 您他妈想干啥就干啥公用许可证) 授权。 请参照 [LICENSE]( https://github.com/zbx1425/paGit/blob/master/LICENSE ) 了解更多细节。 
